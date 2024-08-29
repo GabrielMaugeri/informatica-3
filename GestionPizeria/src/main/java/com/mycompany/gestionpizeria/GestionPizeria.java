@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.ordenamiento;
+package com.mycompany.gestionpizeria;
 
 /**
  *
  * @author mauge
  */
-public class Ordenamiento {
+public class GestionPizeria {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
